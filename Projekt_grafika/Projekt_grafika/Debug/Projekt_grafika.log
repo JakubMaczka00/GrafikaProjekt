@@ -1,0 +1,6 @@
+﻿Projekt_grafika.obj : error LNK2005: Element "struct HPALETTE__ * hPalette" (?hPalette@@3PAUHPALETTE__@@A) jest już zdefiniowany w elemencie Kola.obj
+Projekt_grafika.obj : error LNK2005: Element "struct tagBITMAPINFOHEADER bitmapInfoHeader" (?bitmapInfoHeader@@3UtagBITMAPINFOHEADER@@A) jest już zdefiniowany w elemencie Kola.obj
+Projekt_grafika.obj : error LNK2005: Element "unsigned char * bitmapData" (?bitmapData@@3PAEA) jest już zdefiniowany w elemencie Kola.obj
+Projekt_grafika.obj : error LNK2005: Element "unsigned int * texture" (?texture@@3PAIA) jest już zdefiniowany w elemencie Kola.obj
+Projekt_grafika.obj : error LNK2005: Element "int flag" (?flag@@3HA) jest już zdefiniowany w elemencie Kola.obj
+C:\Users\Msi\source\repos\Projekt_grafika\Debug\Projekt_grafika.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
